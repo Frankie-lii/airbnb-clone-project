@@ -102,3 +102,115 @@ A successful project requires collaboration between team members, each bringing 
 
 Each role plays a critical part in delivering a polished, full-featured web application. In small teams, individuals may take on multiple roles to drive the project forward.
 
+## 🛠️ Technology Stack
+
+This project leverages a modern full-stack architecture using robust and scalable technologies. Each component plays a specific role in delivering functionality, performance, and maintainability.
+
+### 🔙 Backend
+
+- **Django**  
+  A high-level Python web framework used to build secure and maintainable web applications. In this project, Django powers the RESTful API and handles business logic, user authentication, and routing.
+
+- **Django REST Framework (DRF)**  
+  An extension of Django for building flexible and powerful APIs. DRF enables easy serialization, viewsets, and API authentication mechanisms for the frontend to consume.
+
+### 🗃️ Database
+
+- **PostgreSQL**  
+  A powerful open-source relational database system. It stores user profiles, listings, bookings, reviews, and payment records. PostgreSQL is known for its reliability and SQL standards compliance.
+
+### 🔗 API Layer
+
+- **GraphQL** (optional / advanced layer)  
+  A modern query language for APIs, allowing clients to request exactly what they need. If implemented, it would offer an alternative to REST and enable efficient data retrieval.
+
+### 🎨 Frontend
+
+- **HTML5 & CSS3**  
+  Fundamental technologies for building structured content and styling. These define the layout, typography, colors, and responsiveness of the UI.
+
+- **JavaScript (ES6+)**  
+  Enables interactivity in the user interface, including dynamic content updates, form validation, modals, and more.
+
+- **React.js** (optional)  
+  A JavaScript library for building fast, responsive, and component-based UIs. React simplifies frontend development by managing UI state and rendering efficiently.
+
+### 🧪 Testing
+
+- **PyTest / Django Test Framework**  
+  Ensures backend logic is robust and bug-free through unit and integration tests.
+
+- **Postman**  
+  Used to manually test and document REST/GraphQL endpoints during development.
+
+### 🚀 Deployment & DevOps
+
+- **Git & GitHub**  
+  Version control and collaboration tools to track changes, manage branches, and host the codebase.
+
+- **Docker** (optional)  
+  Containers for bundling and deploying the application in isolated, reproducible environments.
+
+- **Heroku / AWS**  
+  Platforms for deploying the web app, making it accessible via a public URL with backend and database connectivity.
+
+---
+
+This technology stack ensures the application is fast, secure, and scalable — ideal for replicating core AirBnB features in a production-style environment.
+
+## 🛠️ Technology Stack
+
+This project leverages a modern full-stack architecture using robust and scalable technologies. Each component plays a specific role in delivering functionality, performance, and maintainability.
+
+### 🔙 Backend
+
+- **Django**  
+  A high-level Python web framework used to build secure and maintainable web applications. In this project, Django powers the RESTful API and handles business logic, user authentication, and routing.
+
+- **Django REST Framework (DRF)**  
+  An extension of Django for building flexible and powerful APIs. DRF enables easy serialization, viewsets, and API authentication mechanisms for the frontend to consume.
+
+### 🗃️ Database
+
+- **PostgreSQL**  
+  A powerful open-source relational database system. It stores user profiles, listings, bookings, reviews, and payment records. PostgreSQL is known for its reliability and SQL standards compliance.
+
+### 🔗 API Layer
+
+- **GraphQL** (optional / advanced layer)  
+  A modern query language for APIs, allowing clients to request exactly what they need. If implemented, it would offer an alternative to REST and enable efficient data retrieval.
+
+### 🎨 Frontend
+
+- **HTML5 & CSS3**  
+  Fundamental technologies for building structured content and styling. These define the layout, typography, colors, and responsiveness of the UI.
+
+- **JavaScript (ES6+)**  
+  Enables interactivity in the user interface, including dynamic content updates, form validation, modals, and more.
+
+- **React.js** (optional)  
+  A JavaScript library for building fast, responsive, and component-based UIs. React simplifies frontend development by managing UI state and rendering efficiently.
+
+### 🧪 Testing
+
+- **PyTest / Django Test Framework**  
+  Ensures backend logic is robust and bug-free through unit and integration tests.
+
+- **Postman**  
+  Used to manually test and document REST/GraphQL endpoints during development.
+
+### 🚀 Deployment & DevOps
+
+- **Git & GitHub**  
+  Version control and collaboration tools to track changes, manage branches, and host the codebase.
+
+- **Docker** (optional)  
+  Containers for bundling and deploying the application in isolated, reproducible environments.
+
+- **Heroku / AWS**  
+  Platforms for deploying the web app, making it accessible via a public URL with backend and database connectivity.
+
+---
+
+This technology stack ensures the application is fast, secure, and scalable — ideal for replicating core AirBnB features in a production-style environment.
+
